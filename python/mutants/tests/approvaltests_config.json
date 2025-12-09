@@ -1,0 +1,8 @@
+{
+  "subdirectory": "approved_files",
+  "reporters": [
+    {
+      "name": "BuiltInDiffReporter"
+    }
+  ]
+}

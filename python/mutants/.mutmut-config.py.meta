@@ -1,0 +1,18 @@
+{
+    "exit_code_by_key": {
+        ".mutmut-config.x_pre_mutation__mutmut_1": 33,
+        ".mutmut-config.x_pre_mutation__mutmut_2": 33,
+        ".mutmut-config.x_pre_mutation__mutmut_3": 33,
+        ".mutmut-config.x_pre_mutation__mutmut_4": 33,
+        ".mutmut-config.x_pre_mutation__mutmut_5": 33
+    },
+    "hash_by_function_name": {},
+    "durations_by_key": {},
+    "estimated_durations_by_key": {
+        ".mutmut-config.x_pre_mutation__mutmut_1": 0,
+        ".mutmut-config.x_pre_mutation__mutmut_2": 0,
+        ".mutmut-config.x_pre_mutation__mutmut_3": 0,
+        ".mutmut-config.x_pre_mutation__mutmut_4": 0,
+        ".mutmut-config.x_pre_mutation__mutmut_5": 0
+    }
+}

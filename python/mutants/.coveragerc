@@ -1,0 +1,21 @@
+[run]
+source = gilded_rose
+branch = True
+omit =
+    */tests/*
+    */test_*.py
+    */__pycache__/*
+
+[report]
+precision = 2
+show_missing = True
+skip_covered = False
+
+[html]
+directory = coverage_html_report
+
+[json]
+output = coverage.json
+
+[xml]
+output = coverage.xml

@@ -1,0 +1,1060 @@
+    gilded_rose.xǁItemǁ__init____mutmut_1: segfault
+    gilded_rose.xǁItemǁ__init____mutmut_2: segfault
+    gilded_rose.xǁItemǁ__init____mutmut_3: segfault
+    gilded_rose.xǁQualityUpdaterǁclamp_quality__mutmut_1: segfault
+    gilded_rose.xǁQualityUpdaterǁclamp_quality__mutmut_2: segfault
+    gilded_rose.xǁQualityUpdaterǁclamp_quality__mutmut_3: segfault
+    gilded_rose.xǁQualityUpdaterǁclamp_quality__mutmut_4: segfault
+    gilded_rose.xǁQualityUpdaterǁclamp_quality__mutmut_5: segfault
+    gilded_rose.xǁQualityUpdaterǁclamp_quality__mutmut_6: segfault
+    gilded_rose.xǁQualityUpdaterǁclamp_quality__mutmut_7: segfault
+    gilded_rose.xǁQualityUpdaterǁclamp_quality__mutmut_8: segfault
+    gilded_rose.xǁQualityUpdaterǁis_expired__mutmut_1: segfault
+    gilded_rose.xǁQualityUpdaterǁis_expired__mutmut_2: segfault
+    gilded_rose.xǁQualityUpdaterǁdecrease_sell_in__mutmut_1: segfault
+    gilded_rose.xǁQualityUpdaterǁdecrease_sell_in__mutmut_2: segfault
+    gilded_rose.xǁQualityUpdaterǁdecrease_sell_in__mutmut_3: segfault
+    gilded_rose.xǁNormalItemUpdaterǁupdate_quality__mutmut_1: segfault
+    gilded_rose.xǁNormalItemUpdaterǁupdate_sell_in__mutmut_1: segfault
+    gilded_rose.xǁNormalItemUpdaterǁupdate_sell_in__mutmut_2: segfault
+    gilded_rose.xǁNormalItemUpdaterǁupdate_sell_in__mutmut_3: segfault
+    gilded_rose.xǁNormalItemUpdaterǁ_degrade_quality_before_expiration__mutmut_1: segfault
+    gilded_rose.xǁNormalItemUpdaterǁ_degrade_quality_before_expiration__mutmut_2: segfault
+    gilded_rose.xǁNormalItemUpdaterǁ_degrade_quality_before_expiration__mutmut_3: segfault
+    gilded_rose.xǁNormalItemUpdaterǁ_degrade_quality_before_expiration__mutmut_4: segfault
+    gilded_rose.xǁNormalItemUpdaterǁ_degrade_quality_additional_after_expiration__mutmut_1: segfault
+    gilded_rose.xǁNormalItemUpdaterǁ_degrade_quality_additional_after_expiration__mutmut_2: segfault
+    gilded_rose.xǁNormalItemUpdaterǁ_degrade_quality_additional_after_expiration__mutmut_3: segfault
+    gilded_rose.xǁNormalItemUpdaterǁ_degrade_quality_additional_after_expiration__mutmut_4: segfault
+    gilded_rose.xǁAgedBrieUpdaterǁupdate_quality__mutmut_1: segfault
+    gilded_rose.xǁAgedBrieUpdaterǁupdate_sell_in__mutmut_1: segfault
+    gilded_rose.xǁAgedBrieUpdaterǁupdate_sell_in__mutmut_2: segfault
+    gilded_rose.xǁAgedBrieUpdaterǁupdate_sell_in__mutmut_3: segfault
+    gilded_rose.xǁAgedBrieUpdaterǁ_improve_quality_before_expiration__mutmut_1: segfault
+    gilded_rose.xǁAgedBrieUpdaterǁ_improve_quality_before_expiration__mutmut_2: segfault
+    gilded_rose.xǁAgedBrieUpdaterǁ_improve_quality_before_expiration__mutmut_3: segfault
+    gilded_rose.xǁAgedBrieUpdaterǁ_improve_quality_before_expiration__mutmut_4: segfault
+    gilded_rose.xǁAgedBrieUpdaterǁ_improve_quality_additional_after_expiration__mutmut_1: segfault
+    gilded_rose.xǁAgedBrieUpdaterǁ_improve_quality_additional_after_expiration__mutmut_2: segfault
+    gilded_rose.xǁAgedBrieUpdaterǁ_improve_quality_additional_after_expiration__mutmut_3: segfault
+    gilded_rose.xǁAgedBrieUpdaterǁ_improve_quality_additional_after_expiration__mutmut_4: segfault
+    gilded_rose.xǁBackstagePassUpdaterǁupdate_quality__mutmut_1: segfault
+    gilded_rose.xǁBackstagePassUpdaterǁupdate_sell_in__mutmut_1: segfault
+    gilded_rose.xǁBackstagePassUpdaterǁupdate_sell_in__mutmut_2: segfault
+    gilded_rose.xǁBackstagePassUpdaterǁupdate_sell_in__mutmut_3: segfault
+    gilded_rose.xǁBackstagePassUpdaterǁ_increase_quality_by_urgency__mutmut_1: segfault
+    gilded_rose.xǁBackstagePassUpdaterǁ_increase_quality_by_urgency__mutmut_2: segfault
+    gilded_rose.xǁBackstagePassUpdaterǁ_increase_quality_by_urgency__mutmut_3: segfault
+    gilded_rose.xǁBackstagePassUpdaterǁ_increase_quality_by_urgency__mutmut_4: segfault
+    gilded_rose.xǁBackstagePassUpdaterǁ_increase_quality_by_urgency__mutmut_5: segfault
+    gilded_rose.xǁBackstagePassUpdaterǁ_calculate_quality_increase__mutmut_1: segfault
+    gilded_rose.xǁBackstagePassUpdaterǁ_calculate_quality_increase__mutmut_2: segfault
+    gilded_rose.xǁBackstagePassUpdaterǁ_calculate_quality_increase__mutmut_3: segfault
+    gilded_rose.xǁBackstagePassUpdaterǁ_calculate_quality_increase__mutmut_4: segfault
+    gilded_rose.xǁBackstagePassUpdaterǁ_calculate_quality_increase__mutmut_5: segfault
+    gilded_rose.xǁBackstagePassUpdaterǁ_expire_backstage_pass__mutmut_1: segfault
+    gilded_rose.xǁItemUpdaterFactoryǁ__init____mutmut_1: segfault
+    gilded_rose.xǁItemUpdaterFactoryǁ__init____mutmut_2: segfault
+    gilded_rose.xǁItemUpdaterFactoryǁ__init____mutmut_3: segfault
+    gilded_rose.xǁItemUpdaterFactoryǁ__init____mutmut_4: segfault
+    gilded_rose.xǁItemUpdaterFactoryǁ__init____mutmut_5: segfault
+    gilded_rose.xǁItemUpdaterFactoryǁ__init____mutmut_6: segfault
+    gilded_rose.xǁItemUpdaterFactoryǁ__init____mutmut_7: segfault
+    gilded_rose.xǁItemUpdaterFactoryǁ__init____mutmut_8: segfault
+    gilded_rose.xǁItemUpdaterFactoryǁ__init____mutmut_9: segfault
+    gilded_rose.xǁItemUpdaterFactoryǁ__init____mutmut_10: segfault
+    gilded_rose.xǁItemUpdaterFactoryǁget_updater__mutmut_1: segfault
+    gilded_rose.xǁItemUpdaterFactoryǁget_updater__mutmut_2: segfault
+    gilded_rose.xǁItemUpdaterFactoryǁget_updater__mutmut_3: segfault
+    gilded_rose.xǁItemUpdaterFactoryǁget_updater__mutmut_4: segfault
+    gilded_rose.xǁItemUpdaterFactoryǁregister_strategy__mutmut_1: no tests
+    gilded_rose.xǁGildedRoseǁ__init____mutmut_1: segfault
+    gilded_rose.xǁGildedRoseǁ__init____mutmut_2: segfault
+    gilded_rose.xǁGildedRoseǁupdate_quality__mutmut_1: segfault
+    gilded_rose.xǁGildedRoseǁ_update_single_item__mutmut_1: segfault
+    gilded_rose.xǁGildedRoseǁ_update_single_item__mutmut_2: segfault
+    gilded_rose.xǁGildedRoseǁ_update_single_item__mutmut_3: segfault
+    gilded_rose.xǁGildedRoseǁ_update_single_item__mutmut_4: segfault
+    .mutmut-config.x_pre_mutation__mutmut_1: no tests
+    .mutmut-config.x_pre_mutation__mutmut_2: no tests
+    .mutmut-config.x_pre_mutation__mutmut_3: no tests
+    .mutmut-config.x_pre_mutation__mutmut_4: no tests
+    .mutmut-config.x_pre_mutation__mutmut_5: no tests
+    texttest_fixture.x_main__mutmut_1: no tests
+    texttest_fixture.x_main__mutmut_2: no tests
+    texttest_fixture.x_main__mutmut_3: no tests
+    texttest_fixture.x_main__mutmut_4: no tests
+    texttest_fixture.x_main__mutmut_5: no tests
+    texttest_fixture.x_main__mutmut_6: no tests
+    texttest_fixture.x_main__mutmut_7: no tests
+    texttest_fixture.x_main__mutmut_8: no tests
+    texttest_fixture.x_main__mutmut_9: no tests
+    texttest_fixture.x_main__mutmut_10: no tests
+    texttest_fixture.x_main__mutmut_11: no tests
+    texttest_fixture.x_main__mutmut_12: no tests
+    texttest_fixture.x_main__mutmut_13: no tests
+    texttest_fixture.x_main__mutmut_14: no tests
+    texttest_fixture.x_main__mutmut_15: no tests
+    texttest_fixture.x_main__mutmut_16: no tests
+    texttest_fixture.x_main__mutmut_17: no tests
+    texttest_fixture.x_main__mutmut_18: no tests
+    texttest_fixture.x_main__mutmut_19: no tests
+    texttest_fixture.x_main__mutmut_20: no tests
+    texttest_fixture.x_main__mutmut_21: no tests
+    texttest_fixture.x_main__mutmut_22: no tests
+    texttest_fixture.x_main__mutmut_23: no tests
+    texttest_fixture.x_main__mutmut_24: no tests
+    texttest_fixture.x_main__mutmut_25: no tests
+    texttest_fixture.x_main__mutmut_26: no tests
+    texttest_fixture.x_main__mutmut_27: no tests
+    texttest_fixture.x_main__mutmut_28: no tests
+    texttest_fixture.x_main__mutmut_29: no tests
+    texttest_fixture.x_main__mutmut_30: no tests
+    texttest_fixture.x_main__mutmut_31: no tests
+    texttest_fixture.x_main__mutmut_32: no tests
+    texttest_fixture.x_main__mutmut_33: no tests
+    texttest_fixture.x_main__mutmut_34: no tests
+    texttest_fixture.x_main__mutmut_35: no tests
+    texttest_fixture.x_main__mutmut_36: no tests
+    texttest_fixture.x_main__mutmut_37: no tests
+    texttest_fixture.x_main__mutmut_38: no tests
+    texttest_fixture.x_main__mutmut_39: no tests
+    texttest_fixture.x_main__mutmut_40: no tests
+    texttest_fixture.x_main__mutmut_41: no tests
+    texttest_fixture.x_main__mutmut_42: no tests
+    texttest_fixture.x_main__mutmut_43: no tests
+    texttest_fixture.x_main__mutmut_44: no tests
+    texttest_fixture.x_main__mutmut_45: no tests
+    texttest_fixture.x_main__mutmut_46: no tests
+    texttest_fixture.x_main__mutmut_47: no tests
+    texttest_fixture.x_main__mutmut_48: no tests
+    texttest_fixture.x_main__mutmut_49: no tests
+    texttest_fixture.x_main__mutmut_50: no tests
+    texttest_fixture.x_main__mutmut_51: no tests
+    texttest_fixture.x_main__mutmut_52: no tests
+    texttest_fixture.x_main__mutmut_53: no tests
+    texttest_fixture.x_main__mutmut_54: no tests
+    texttest_fixture.x_main__mutmut_55: no tests
+    texttest_fixture.x_main__mutmut_56: no tests
+    texttest_fixture.x_main__mutmut_57: no tests
+    texttest_fixture.x_main__mutmut_58: no tests
+    texttest_fixture.x_main__mutmut_59: no tests
+    texttest_fixture.x_main__mutmut_60: no tests
+    texttest_fixture.x_main__mutmut_61: no tests
+    texttest_fixture.x_main__mutmut_62: no tests
+    texttest_fixture.x_main__mutmut_63: no tests
+    texttest_fixture.x_main__mutmut_64: no tests
+    texttest_fixture.x_main__mutmut_65: no tests
+    texttest_fixture.x_main__mutmut_66: no tests
+    texttest_fixture.x_main__mutmut_67: no tests
+    texttest_fixture.x_main__mutmut_68: no tests
+    texttest_fixture.x_main__mutmut_69: no tests
+    texttest_fixture.x_main__mutmut_70: no tests
+    texttest_fixture.x_main__mutmut_71: no tests
+    texttest_fixture.x_main__mutmut_72: no tests
+    texttest_fixture.x_main__mutmut_73: no tests
+    texttest_fixture.x_main__mutmut_74: no tests
+    texttest_fixture.x_main__mutmut_75: no tests
+    texttest_fixture.x_main__mutmut_76: no tests
+    texttest_fixture.x_main__mutmut_77: no tests
+    texttest_fixture.x_main__mutmut_78: no tests
+    texttest_fixture.x_main__mutmut_79: no tests
+    texttest_fixture.x_main__mutmut_80: no tests
+    texttest_fixture.x_main__mutmut_81: no tests
+    texttest_fixture.x_main__mutmut_82: no tests
+    texttest_fixture.x_main__mutmut_83: no tests
+    texttest_fixture.x_main__mutmut_84: no tests
+    texttest_fixture.x_main__mutmut_85: no tests
+    texttest_fixture.x_main__mutmut_86: no tests
+    texttest_fixture.x_main__mutmut_87: no tests
+    texttest_fixture.x_main__mutmut_88: no tests
+    texttest_fixture.x_main__mutmut_89: no tests
+    texttest_fixture.x_main__mutmut_90: no tests
+    texttest_fixture.x_main__mutmut_91: no tests
+    texttest_fixture.x_main__mutmut_92: no tests
+    texttest_fixture.x_main__mutmut_93: no tests
+    texttest_fixture.x_main__mutmut_94: no tests
+    texttest_fixture.x_main__mutmut_95: no tests
+    texttest_fixture.x_main__mutmut_96: no tests
+    texttest_fixture.x_main__mutmut_97: no tests
+    texttest_fixture.x_main__mutmut_98: no tests
+    texttest_fixture.x_main__mutmut_99: no tests
+    texttest_fixture.x_main__mutmut_100: no tests
+    texttest_fixture.x_main__mutmut_101: no tests
+    texttest_fixture.x_main__mutmut_102: no tests
+    texttest_fixture.x_main__mutmut_103: no tests
+    texttest_fixture.x_main__mutmut_104: no tests
+    texttest_fixture.x_main__mutmut_105: no tests
+    texttest_fixture.x_main__mutmut_106: no tests
+    texttest_fixture.x_main__mutmut_107: no tests
+    texttest_fixture.x_main__mutmut_108: no tests
+    texttest_fixture.x_main__mutmut_109: no tests
+    texttest_fixture.x_main__mutmut_110: no tests
+    texttest_fixture.x_main__mutmut_111: no tests
+    texttest_fixture.x_main__mutmut_112: no tests
+    texttest_fixture.x_main__mutmut_113: no tests
+    texttest_fixture.x_main__mutmut_114: no tests
+    texttest_fixture.x_main__mutmut_115: no tests
+    texttest_fixture.x_main__mutmut_116: no tests
+    texttest_fixture.x_main__mutmut_117: no tests
+    texttest_fixture.x_main__mutmut_118: no tests
+    texttest_fixture.x_main__mutmut_119: no tests
+    texttest_fixture.x_main__mutmut_120: no tests
+    texttest_fixture.x_main__mutmut_121: no tests
+    texttest_fixture.x_main__mutmut_122: no tests
+    texttest_fixture.x_main__mutmut_123: no tests
+    texttest_fixture.x_main__mutmut_124: no tests
+    texttest_fixture.x_main__mutmut_125: no tests
+    texttest_fixture.x_main__mutmut_126: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_1: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_2: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_3: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_4: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_5: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_6: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_7: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_8: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_9: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_10: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_11: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_12: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_13: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_14: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_15: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_16: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_17: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_18: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_19: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_20: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_21: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_22: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_23: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_24: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_25: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_26: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_27: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_28: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_29: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_30: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_31: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_32: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_33: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_34: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_35: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_36: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_37: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_38: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_39: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_40: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_41: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_42: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_43: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_44: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_45: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_46: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_47: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_48: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_49: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_50: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_51: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_52: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_53: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_54: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_55: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_56: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_57: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_58: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_59: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_60: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_61: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_62: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_63: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_64: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_65: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_66: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_67: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_68: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_69: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_70: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_71: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_empty_item_list__mutmut_1: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_empty_item_list__mutmut_2: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_empty_item_list__mutmut_3: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_empty_item_list__mutmut_4: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_empty_item_list__mutmut_5: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_normal_item_quality_never_negative__mutmut_1: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_normal_item_quality_never_negative__mutmut_2: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_normal_item_quality_never_negative__mutmut_3: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_normal_item_quality_never_negative__mutmut_4: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_normal_item_quality_never_negative__mutmut_5: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_normal_item_quality_never_negative__mutmut_6: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_normal_item_quality_never_negative__mutmut_7: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_normal_item_quality_never_negative__mutmut_8: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_normal_item_quality_never_negative__mutmut_9: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_normal_item_quality_never_negative__mutmut_10: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_normal_item_quality_never_negative__mutmut_11: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_normal_item_quality_never_negative__mutmut_12: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_normal_item_quality_never_negative__mutmut_13: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_normal_item_quality_never_negative__mutmut_14: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_normal_item_quality_never_negative__mutmut_15: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_normal_item_quality_never_negative__mutmut_16: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_normal_item_quality_never_negative__mutmut_17: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_normal_item_quality_never_negative__mutmut_18: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_normal_item_quality_never_negative__mutmut_19: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_aged_brie_quality_never_above_50__mutmut_1: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_aged_brie_quality_never_above_50__mutmut_2: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_aged_brie_quality_never_above_50__mutmut_3: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_aged_brie_quality_never_above_50__mutmut_4: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_aged_brie_quality_never_above_50__mutmut_5: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_aged_brie_quality_never_above_50__mutmut_6: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_aged_brie_quality_never_above_50__mutmut_7: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_aged_brie_quality_never_above_50__mutmut_8: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_aged_brie_quality_never_above_50__mutmut_9: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_aged_brie_quality_never_above_50__mutmut_10: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_aged_brie_quality_never_above_50__mutmut_11: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_aged_brie_quality_never_above_50__mutmut_12: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_aged_brie_quality_never_above_50__mutmut_13: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_aged_brie_quality_never_above_50__mutmut_14: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_aged_brie_quality_never_above_50__mutmut_15: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_aged_brie_quality_never_above_50__mutmut_16: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_aged_brie_quality_never_above_50__mutmut_17: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_aged_brie_quality_never_above_50__mutmut_18: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_aged_brie_quality_never_above_50__mutmut_19: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_quality_never_above_50__mutmut_1: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_quality_never_above_50__mutmut_2: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_quality_never_above_50__mutmut_3: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_quality_never_above_50__mutmut_4: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_quality_never_above_50__mutmut_5: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_quality_never_above_50__mutmut_6: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_quality_never_above_50__mutmut_7: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_quality_never_above_50__mutmut_8: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_quality_never_above_50__mutmut_9: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_quality_never_above_50__mutmut_10: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_quality_never_above_50__mutmut_11: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_quality_never_above_50__mutmut_12: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_quality_never_above_50__mutmut_13: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_quality_never_above_50__mutmut_14: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_quality_never_above_50__mutmut_15: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_quality_never_above_50__mutmut_16: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_quality_never_above_50__mutmut_17: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_quality_never_above_50__mutmut_18: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_quality_never_above_50__mutmut_19: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_drops_to_zero_immediately_after_concert__mutmut_1: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_drops_to_zero_immediately_after_concert__mutmut_2: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_drops_to_zero_immediately_after_concert__mutmut_3: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_drops_to_zero_immediately_after_concert__mutmut_4: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_drops_to_zero_immediately_after_concert__mutmut_5: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_drops_to_zero_immediately_after_concert__mutmut_6: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_drops_to_zero_immediately_after_concert__mutmut_7: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_drops_to_zero_immediately_after_concert__mutmut_8: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_drops_to_zero_immediately_after_concert__mutmut_9: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_drops_to_zero_immediately_after_concert__mutmut_10: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_drops_to_zero_immediately_after_concert__mutmut_11: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_drops_to_zero_immediately_after_concert__mutmut_12: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_drops_to_zero_immediately_after_concert__mutmut_13: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_drops_to_zero_immediately_after_concert__mutmut_14: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_drops_to_zero_immediately_after_concert__mutmut_15: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_drops_to_zero_immediately_after_concert__mutmut_16: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_drops_to_zero_immediately_after_concert__mutmut_17: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_drops_to_zero_immediately_after_concert__mutmut_18: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_drops_to_zero_immediately_after_concert__mutmut_19: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_drops_to_zero_immediately_after_concert__mutmut_20: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_drops_to_zero_immediately_after_concert__mutmut_21: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_item_representation__mutmut_1: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_item_representation__mutmut_2: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_item_representation__mutmut_3: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_item_representation__mutmut_4: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_item_representation__mutmut_5: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_item_representation__mutmut_6: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_item_representation__mutmut_7: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_item_representation__mutmut_8: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_item_representation__mutmut_9: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_item_representation__mutmut_10: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_item_representation__mutmut_11: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_item_representation__mutmut_12: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_item_representation__mutmut_13: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_item_representation__mutmut_14: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_item_representation__mutmut_15: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_item_representation__mutmut_16: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_item_representation__mutmut_17: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_gilded_rose_initialization__mutmut_1: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_gilded_rose_initialization__mutmut_2: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_gilded_rose_initialization__mutmut_3: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_gilded_rose_initialization__mutmut_4: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_gilded_rose_initialization__mutmut_5: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_gilded_rose_initialization__mutmut_6: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_gilded_rose_initialization__mutmut_7: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_gilded_rose_initialization__mutmut_8: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_gilded_rose_initialization__mutmut_9: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_gilded_rose_initialization__mutmut_10: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_gilded_rose_initialization__mutmut_11: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_gilded_rose_initialization__mutmut_12: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_gilded_rose_initialization__mutmut_13: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_gilded_rose_initialization__mutmut_14: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_gilded_rose_initialization__mutmut_15: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_gilded_rose_initialization__mutmut_16: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_gilded_rose_initialization__mutmut_17: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSellInBehaviorǁtest_sulfuras_sell_in_never_decreases__mutmut_1: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSellInBehaviorǁtest_sulfuras_sell_in_never_decreases__mutmut_2: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSellInBehaviorǁtest_sulfuras_sell_in_never_decreases__mutmut_3: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSellInBehaviorǁtest_sulfuras_sell_in_never_decreases__mutmut_4: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSellInBehaviorǁtest_sulfuras_sell_in_never_decreases__mutmut_5: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSellInBehaviorǁtest_sulfuras_sell_in_never_decreases__mutmut_6: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSellInBehaviorǁtest_sulfuras_sell_in_never_decreases__mutmut_7: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSellInBehaviorǁtest_sulfuras_sell_in_never_decreases__mutmut_8: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSellInBehaviorǁtest_sulfuras_sell_in_never_decreases__mutmut_9: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSellInBehaviorǁtest_sulfuras_sell_in_never_decreases__mutmut_10: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSellInBehaviorǁtest_sulfuras_sell_in_never_decreases__mutmut_11: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSellInBehaviorǁtest_sulfuras_sell_in_never_decreases__mutmut_12: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSellInBehaviorǁtest_sulfuras_sell_in_never_decreases__mutmut_13: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSellInBehaviorǁtest_sulfuras_sell_in_never_decreases__mutmut_14: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSellInBehaviorǁtest_sulfuras_sell_in_never_decreases__mutmut_15: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSellInBehaviorǁtest_sulfuras_sell_in_never_decreases__mutmut_16: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSellInBehaviorǁtest_sulfuras_sell_in_never_decreases__mutmut_17: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSellInBehaviorǁtest_sulfuras_sell_in_never_decreases__mutmut_18: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSellInBehaviorǁtest_sulfuras_sell_in_never_decreases__mutmut_19: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_1: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_2: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_3: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_4: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_5: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_6: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_7: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_8: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_9: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_10: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_11: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_12: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_13: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_14: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_15: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_16: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_17: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_18: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_19: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_20: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_21: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_22: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_23: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_24: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_25: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_26: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_27: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_28: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_29: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_30: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_31: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_32: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_33: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_34: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_35: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_36: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_37: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_38: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_39: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_1: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_2: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_3: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_4: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_5: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_6: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_7: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_8: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_9: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_10: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_11: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_12: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_13: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_14: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_15: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_16: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_17: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_18: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_19: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_20: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_21: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_22: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_23: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_24: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_25: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_26: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_27: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_28: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_29: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_30: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_31: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_32: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_33: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_34: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_35: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_36: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_37: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_38: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_39: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_1: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_2: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_3: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_4: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_5: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_6: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_7: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_8: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_9: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_10: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_11: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_12: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_13: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_14: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_15: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_16: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_17: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_18: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_19: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_20: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_21: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_22: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_23: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_24: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_25: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_26: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_27: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_28: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_29: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_30: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_31: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_32: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_33: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_34: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_35: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_36: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_37: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_38: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_39: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_40: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_41: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_42: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_43: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_44: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_45: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_46: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_47: no tests
+    mutants.tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_48: no tests
+    mutants.tests.conftest_bdd.x_before_scenario__mutmut_1: no tests
+    mutants.tests.conftest_bdd.x_before_scenario__mutmut_2: no tests
+    mutants.tests.conftest_bdd.x_before_scenario__mutmut_3: no tests
+    mutants.tests.conftest_bdd.x_before_scenario__mutmut_4: no tests
+    mutants.tests.conftest_bdd.x_before_scenario__mutmut_5: no tests
+    mutants.tests.conftest_bdd.x_before_scenario__mutmut_6: no tests
+    mutants.tests.conftest_bdd.x_before_scenario__mutmut_7: no tests
+    mutants.tests.conftest_bdd.x_before_scenario__mutmut_8: no tests
+    mutants.tests.conftest_bdd.x_before_scenario__mutmut_9: no tests
+    mutants.tests.conftest_bdd.x_before_scenario__mutmut_10: no tests
+    mutants.tests.conftest_bdd.x_before_scenario__mutmut_11: no tests
+    mutants.tests.conftest_bdd.x_before_scenario__mutmut_12: no tests
+    mutants.tests.conftest_bdd.x_before_scenario__mutmut_13: no tests
+    mutants.tests.conftest_bdd.x_before_scenario__mutmut_14: no tests
+    mutants.tests.conftest_bdd.x_before_scenario__mutmut_15: no tests
+    mutants.tests.conftest_bdd.x_before_scenario__mutmut_16: no tests
+    mutants.tests.conftest_bdd.x_after_scenario__mutmut_1: no tests
+    mutants.tests.conftest_bdd.x_after_scenario__mutmut_2: no tests
+    mutants.tests.conftest_bdd.x_assert_item_unchanged__mutmut_1: no tests
+    mutants.tests.conftest_bdd.x_assert_item_unchanged__mutmut_2: no tests
+    mutants.tests.conftest_bdd.x_assert_quality_in_bounds__mutmut_1: no tests
+    mutants.tests.conftest_bdd.x_assert_quality_in_bounds__mutmut_2: no tests
+    mutants.tests.conftest_bdd.x_assert_quality_in_bounds__mutmut_3: no tests
+    mutants.tests.conftest_bdd.x_assert_quality_in_bounds__mutmut_4: no tests
+    mutants.tests.conftest_bdd.x_assert_quality_decreased__mutmut_1: no tests
+    mutants.tests.conftest_bdd.x_assert_quality_decreased__mutmut_2: no tests
+    mutants.tests.conftest_bdd.x_assert_quality_decreased__mutmut_3: no tests
+    mutants.tests.conftest_bdd.x_assert_quality_decreased__mutmut_4: no tests
+    mutants.tests.conftest_bdd.x_assert_quality_decreased__mutmut_5: no tests
+    mutants.tests.conftest_bdd.x_assert_quality_decreased__mutmut_6: no tests
+    mutants.tests.conftest_bdd.x_assert_quality_decreased__mutmut_7: no tests
+    mutants.tests.conftest_bdd.x_assert_quality_decreased__mutmut_8: no tests
+    mutants.tests.conftest_bdd.x_assert_quality_increased__mutmut_1: no tests
+    mutants.tests.conftest_bdd.x_assert_quality_increased__mutmut_2: no tests
+    mutants.tests.conftest_bdd.x_assert_quality_increased__mutmut_3: no tests
+    mutants.tests.conftest_bdd.x_assert_quality_increased__mutmut_4: no tests
+    mutants.tests.conftest_bdd.x_assert_quality_increased__mutmut_5: no tests
+    mutants.tests.conftest_bdd.x_assert_quality_increased__mutmut_6: no tests
+    mutants.tests.conftest_bdd.x_assert_quality_increased__mutmut_7: no tests
+    mutants.tests.conftest_bdd.x_assert_quality_increased__mutmut_8: no tests
+    mutants.tests.conftest_bdd.x_example_manual_bdd_test__mutmut_1: no tests
+    mutants.tests.conftest_bdd.x_example_manual_bdd_test__mutmut_2: no tests
+    mutants.tests.conftest_bdd.x_example_manual_bdd_test__mutmut_3: no tests
+    mutants.tests.conftest_bdd.x_example_manual_bdd_test__mutmut_4: no tests
+    mutants.tests.conftest_bdd.x_example_manual_bdd_test__mutmut_5: no tests
+    mutants.tests.conftest_bdd.x_example_manual_bdd_test__mutmut_6: no tests
+    mutants.tests.conftest_bdd.x_example_manual_bdd_test__mutmut_7: no tests
+    mutants.tests.conftest_bdd.x_example_manual_bdd_test__mutmut_8: no tests
+    mutants.tests.conftest_bdd.x_example_manual_bdd_test__mutmut_9: no tests
+    mutants.tests.conftest_bdd.x_example_manual_bdd_test__mutmut_10: no tests
+    mutants.tests.conftest_bdd.x_example_manual_bdd_test__mutmut_11: no tests
+    mutants.tests.conftest_bdd.x_example_manual_bdd_test__mutmut_12: no tests
+    mutants.tests.conftest_bdd.x_example_manual_bdd_test__mutmut_13: no tests
+    mutants.tests.conftest_bdd.x_example_manual_bdd_test__mutmut_14: no tests
+    mutants.tests.conftest_bdd.x_example_manual_bdd_test__mutmut_15: no tests
+    mutants.tests.conftest_bdd.x_example_manual_bdd_test__mutmut_16: no tests
+    mutants.tests.conftest_bdd.x_example_manual_bdd_test__mutmut_17: no tests
+    mutants.tests.conftest_bdd.x_example_manual_bdd_test__mutmut_18: no tests
+    mutants.tests.conftest_bdd.x_example_manual_bdd_test__mutmut_19: no tests
+    mutants.tests.conftest_bdd.x_example_manual_bdd_test__mutmut_20: no tests
+    mutants.tests.conftest_bdd.x_example_manual_bdd_test__mutmut_21: no tests
+    mutants.tests.conftest_bdd.x_example_manual_bdd_test__mutmut_22: no tests
+    mutants.tests.conftest_bdd.x_example_manual_bdd_test__mutmut_23: no tests
+    mutants.tests.conftest_bdd.x_example_manual_bdd_test__mutmut_24: no tests
+    mutants.tests.conftest_bdd.x_example_manual_bdd_test__mutmut_25: no tests
+    mutants.tests.conftest_bdd.x_example_manual_bdd_test__mutmut_26: no tests
+    mutants.tests.conftest_bdd.x_example_manual_bdd_test__mutmut_27: no tests
+    mutants.tests.conftest_bdd.x_example_manual_bdd_test__mutmut_28: no tests
+    mutants.tests.conftest_bdd.x_example_manual_bdd_test__mutmut_29: no tests
+    mutants.tests.conftest_bdd.x_example_manual_bdd_test__mutmut_30: no tests
+    mutants.tests.conftest_bdd.x_example_manual_bdd_test__mutmut_31: no tests
+    mutants.tests.conftest_bdd.x_example_manual_bdd_test__mutmut_32: no tests
+    mutants.tests.conftest_bdd.x_example_manual_bdd_test__mutmut_33: no tests
+    mutants.tests.conftest_bdd.x_example_manual_bdd_test__mutmut_34: no tests
+    mutants.tests.conftest_bdd.x_example_manual_bdd_test__mutmut_35: no tests
+    mutants.tests.conftest_bdd.x_example_manual_bdd_test__mutmut_36: no tests
+    mutants.tests.conftest_bdd.x_example_manual_bdd_test__mutmut_37: no tests
+    mutants.tests.conftest_bdd.x_example_manual_bdd_test__mutmut_38: no tests
+    mutants.tests.conftest_bdd.x_example_manual_bdd_test__mutmut_39: no tests
+    mutants.tests.conftest_bdd.x_example_manual_bdd_test__mutmut_40: no tests
+    mutants.tests.conftest_bdd.x_example_manual_bdd_test__mutmut_41: no tests
+    mutants.tests.conftest_bdd.x_example_manual_bdd_test__mutmut_42: no tests
+    mutants.tests.conftest_bdd.x_example_manual_bdd_test__mutmut_43: no tests
+    mutants.tests.conftest_bdd.x_example_manual_bdd_test__mutmut_44: no tests
+    mutants.tests.conftest_bdd.x_example_manual_bdd_test__mutmut_45: no tests
+    mutants.tests.conftest_bdd.x_example_manual_bdd_test__mutmut_46: no tests
+    mutants.tests.conftest_bdd.x_example_manual_bdd_test__mutmut_47: no tests
+    mutants.tests.conftest_bdd.x_example_manual_bdd_test__mutmut_48: no tests
+    mutants.tests.conftest_bdd.x_example_manual_bdd_test__mutmut_49: no tests
+    mutants.tests.conftest_bdd.x_example_manual_bdd_test__mutmut_50: no tests
+    mutants.tests.conftest_bdd.x_example_manual_bdd_test__mutmut_51: no tests
+    mutants.tests.conftest_bdd.x_example_manual_bdd_test__mutmut_52: no tests
+    mutants.tests.conftest_bdd.x_example_manual_bdd_test__mutmut_53: no tests
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_1: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_2: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_3: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_4: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_5: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_6: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_7: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_8: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_9: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_10: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_11: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_12: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_13: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_14: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_15: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_16: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_17: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_18: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_19: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_20: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_21: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_22: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_23: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_24: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_25: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_26: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_27: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_28: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_29: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_30: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_31: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_32: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_33: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_34: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_35: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_36: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_37: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_38: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_39: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_40: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_41: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_42: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_43: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_44: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_45: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_46: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_47: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_48: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_49: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_50: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_51: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_52: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_53: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_54: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_55: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_56: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_57: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_58: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_59: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_60: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_61: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_62: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_63: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_64: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_65: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_66: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_67: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_68: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_69: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_70: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_multiple_items_update_independently__mutmut_71: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_empty_item_list__mutmut_1: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_empty_item_list__mutmut_2: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_empty_item_list__mutmut_3: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_empty_item_list__mutmut_4: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseMultipleItemsǁtest_empty_item_list__mutmut_5: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_normal_item_quality_never_negative__mutmut_1: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_normal_item_quality_never_negative__mutmut_2: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_normal_item_quality_never_negative__mutmut_3: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_normal_item_quality_never_negative__mutmut_4: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_normal_item_quality_never_negative__mutmut_5: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_normal_item_quality_never_negative__mutmut_6: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_normal_item_quality_never_negative__mutmut_7: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_normal_item_quality_never_negative__mutmut_8: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_normal_item_quality_never_negative__mutmut_9: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_normal_item_quality_never_negative__mutmut_10: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_normal_item_quality_never_negative__mutmut_11: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_normal_item_quality_never_negative__mutmut_12: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_normal_item_quality_never_negative__mutmut_13: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_normal_item_quality_never_negative__mutmut_14: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_normal_item_quality_never_negative__mutmut_15: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_normal_item_quality_never_negative__mutmut_16: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_normal_item_quality_never_negative__mutmut_17: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_normal_item_quality_never_negative__mutmut_18: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_normal_item_quality_never_negative__mutmut_19: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_aged_brie_quality_never_above_50__mutmut_1: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_aged_brie_quality_never_above_50__mutmut_2: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_aged_brie_quality_never_above_50__mutmut_3: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_aged_brie_quality_never_above_50__mutmut_4: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_aged_brie_quality_never_above_50__mutmut_5: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_aged_brie_quality_never_above_50__mutmut_6: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_aged_brie_quality_never_above_50__mutmut_7: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_aged_brie_quality_never_above_50__mutmut_8: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_aged_brie_quality_never_above_50__mutmut_9: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_aged_brie_quality_never_above_50__mutmut_10: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_aged_brie_quality_never_above_50__mutmut_11: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_aged_brie_quality_never_above_50__mutmut_12: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_aged_brie_quality_never_above_50__mutmut_13: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_aged_brie_quality_never_above_50__mutmut_14: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_aged_brie_quality_never_above_50__mutmut_15: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_aged_brie_quality_never_above_50__mutmut_16: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_aged_brie_quality_never_above_50__mutmut_17: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_aged_brie_quality_never_above_50__mutmut_18: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_aged_brie_quality_never_above_50__mutmut_19: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_quality_never_above_50__mutmut_1: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_quality_never_above_50__mutmut_2: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_quality_never_above_50__mutmut_3: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_quality_never_above_50__mutmut_4: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_quality_never_above_50__mutmut_5: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_quality_never_above_50__mutmut_6: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_quality_never_above_50__mutmut_7: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_quality_never_above_50__mutmut_8: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_quality_never_above_50__mutmut_9: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_quality_never_above_50__mutmut_10: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_quality_never_above_50__mutmut_11: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_quality_never_above_50__mutmut_12: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_quality_never_above_50__mutmut_13: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_quality_never_above_50__mutmut_14: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_quality_never_above_50__mutmut_15: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_quality_never_above_50__mutmut_16: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_quality_never_above_50__mutmut_17: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_quality_never_above_50__mutmut_18: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_quality_never_above_50__mutmut_19: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_drops_to_zero_immediately_after_concert__mutmut_1: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_drops_to_zero_immediately_after_concert__mutmut_2: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_drops_to_zero_immediately_after_concert__mutmut_3: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_drops_to_zero_immediately_after_concert__mutmut_4: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_drops_to_zero_immediately_after_concert__mutmut_5: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_drops_to_zero_immediately_after_concert__mutmut_6: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_drops_to_zero_immediately_after_concert__mutmut_7: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_drops_to_zero_immediately_after_concert__mutmut_8: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_drops_to_zero_immediately_after_concert__mutmut_9: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_drops_to_zero_immediately_after_concert__mutmut_10: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_drops_to_zero_immediately_after_concert__mutmut_11: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_drops_to_zero_immediately_after_concert__mutmut_12: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_drops_to_zero_immediately_after_concert__mutmut_13: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_drops_to_zero_immediately_after_concert__mutmut_14: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_drops_to_zero_immediately_after_concert__mutmut_15: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_drops_to_zero_immediately_after_concert__mutmut_16: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_drops_to_zero_immediately_after_concert__mutmut_17: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_drops_to_zero_immediately_after_concert__mutmut_18: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_drops_to_zero_immediately_after_concert__mutmut_19: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_drops_to_zero_immediately_after_concert__mutmut_20: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_backstage_pass_drops_to_zero_immediately_after_concert__mutmut_21: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_item_representation__mutmut_1: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_item_representation__mutmut_2: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_item_representation__mutmut_3: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_item_representation__mutmut_4: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_item_representation__mutmut_5: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_item_representation__mutmut_6: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_item_representation__mutmut_7: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_item_representation__mutmut_8: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_item_representation__mutmut_9: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_item_representation__mutmut_10: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_item_representation__mutmut_11: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_item_representation__mutmut_12: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_item_representation__mutmut_13: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_item_representation__mutmut_14: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_item_representation__mutmut_15: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_item_representation__mutmut_16: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_item_representation__mutmut_17: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_gilded_rose_initialization__mutmut_1: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_gilded_rose_initialization__mutmut_2: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_gilded_rose_initialization__mutmut_3: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_gilded_rose_initialization__mutmut_4: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_gilded_rose_initialization__mutmut_5: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_gilded_rose_initialization__mutmut_6: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_gilded_rose_initialization__mutmut_7: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_gilded_rose_initialization__mutmut_8: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_gilded_rose_initialization__mutmut_9: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_gilded_rose_initialization__mutmut_10: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_gilded_rose_initialization__mutmut_11: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_gilded_rose_initialization__mutmut_12: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_gilded_rose_initialization__mutmut_13: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_gilded_rose_initialization__mutmut_14: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_gilded_rose_initialization__mutmut_15: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_gilded_rose_initialization__mutmut_16: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseEdgeCasesAndBoundariesǁtest_gilded_rose_initialization__mutmut_17: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSellInBehaviorǁtest_sulfuras_sell_in_never_decreases__mutmut_1: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSellInBehaviorǁtest_sulfuras_sell_in_never_decreases__mutmut_2: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSellInBehaviorǁtest_sulfuras_sell_in_never_decreases__mutmut_3: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSellInBehaviorǁtest_sulfuras_sell_in_never_decreases__mutmut_4: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSellInBehaviorǁtest_sulfuras_sell_in_never_decreases__mutmut_5: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSellInBehaviorǁtest_sulfuras_sell_in_never_decreases__mutmut_6: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSellInBehaviorǁtest_sulfuras_sell_in_never_decreases__mutmut_7: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSellInBehaviorǁtest_sulfuras_sell_in_never_decreases__mutmut_8: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSellInBehaviorǁtest_sulfuras_sell_in_never_decreases__mutmut_9: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSellInBehaviorǁtest_sulfuras_sell_in_never_decreases__mutmut_10: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSellInBehaviorǁtest_sulfuras_sell_in_never_decreases__mutmut_11: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSellInBehaviorǁtest_sulfuras_sell_in_never_decreases__mutmut_12: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSellInBehaviorǁtest_sulfuras_sell_in_never_decreases__mutmut_13: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSellInBehaviorǁtest_sulfuras_sell_in_never_decreases__mutmut_14: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSellInBehaviorǁtest_sulfuras_sell_in_never_decreases__mutmut_15: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSellInBehaviorǁtest_sulfuras_sell_in_never_decreases__mutmut_16: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSellInBehaviorǁtest_sulfuras_sell_in_never_decreases__mutmut_17: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSellInBehaviorǁtest_sulfuras_sell_in_never_decreases__mutmut_18: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSellInBehaviorǁtest_sulfuras_sell_in_never_decreases__mutmut_19: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_1: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_2: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_3: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_4: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_5: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_6: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_7: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_8: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_9: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_10: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_11: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_12: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_13: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_14: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_15: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_16: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_17: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_18: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_19: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_20: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_21: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_22: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_23: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_24: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_25: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_26: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_27: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_28: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_29: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_30: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_31: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_32: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_33: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_34: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_35: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_36: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_37: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_38: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_normal_item_over_multiple_days__mutmut_39: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_1: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_2: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_3: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_4: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_5: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_6: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_7: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_8: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_9: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_10: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_11: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_12: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_13: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_14: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_15: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_16: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_17: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_18: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_19: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_20: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_21: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_22: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_23: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_24: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_25: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_26: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_27: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_28: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_29: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_30: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_31: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_32: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_33: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_34: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_35: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_36: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_37: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_38: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_aged_brie_over_multiple_days__mutmut_39: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_1: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_2: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_3: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_4: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_5: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_6: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_7: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_8: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_9: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_10: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_11: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_12: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_13: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_14: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_15: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_16: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_17: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_18: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_19: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_20: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_21: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_22: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_23: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_24: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_25: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_26: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_27: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_28: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_29: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_30: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_31: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_32: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_33: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_34: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_35: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_36: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_37: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_38: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_39: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_40: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_41: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_42: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_43: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_44: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_45: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_46: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_47: segfault
+    tests.test_gilded_rose.xǁTestGildedRoseSequentialUpdatesǁtest_backstage_pass_approaching_concert__mutmut_48: segfault
+    tests.conftest_bdd.x_before_scenario__mutmut_1: no tests
+    tests.conftest_bdd.x_before_scenario__mutmut_2: no tests
+    tests.conftest_bdd.x_before_scenario__mutmut_3: no tests
+    tests.conftest_bdd.x_before_scenario__mutmut_4: no tests
+    tests.conftest_bdd.x_before_scenario__mutmut_5: no tests
+    tests.conftest_bdd.x_before_scenario__mutmut_6: no tests
+    tests.conftest_bdd.x_before_scenario__mutmut_7: no tests
+    tests.conftest_bdd.x_before_scenario__mutmut_8: no tests
+    tests.conftest_bdd.x_before_scenario__mutmut_9: no tests
+    tests.conftest_bdd.x_before_scenario__mutmut_10: no tests
+    tests.conftest_bdd.x_before_scenario__mutmut_11: no tests
+    tests.conftest_bdd.x_before_scenario__mutmut_12: no tests
+    tests.conftest_bdd.x_before_scenario__mutmut_13: no tests
+    tests.conftest_bdd.x_before_scenario__mutmut_14: no tests
+    tests.conftest_bdd.x_before_scenario__mutmut_15: no tests
+    tests.conftest_bdd.x_before_scenario__mutmut_16: no tests
+    tests.conftest_bdd.x_after_scenario__mutmut_1: no tests
+    tests.conftest_bdd.x_after_scenario__mutmut_2: no tests
+    tests.conftest_bdd.x_assert_item_unchanged__mutmut_1: no tests
+    tests.conftest_bdd.x_assert_item_unchanged__mutmut_2: no tests
+    tests.conftest_bdd.x_assert_quality_in_bounds__mutmut_1: no tests
+    tests.conftest_bdd.x_assert_quality_in_bounds__mutmut_2: no tests
+    tests.conftest_bdd.x_assert_quality_in_bounds__mutmut_3: no tests
+    tests.conftest_bdd.x_assert_quality_in_bounds__mutmut_4: no tests
+    tests.conftest_bdd.x_assert_quality_decreased__mutmut_1: no tests
+    tests.conftest_bdd.x_assert_quality_decreased__mutmut_2: no tests
+    tests.conftest_bdd.x_assert_quality_decreased__mutmut_3: no tests
+    tests.conftest_bdd.x_assert_quality_decreased__mutmut_4: no tests
+    tests.conftest_bdd.x_assert_quality_decreased__mutmut_5: no tests
+    tests.conftest_bdd.x_assert_quality_decreased__mutmut_6: no tests
+    tests.conftest_bdd.x_assert_quality_decreased__mutmut_7: no tests
+    tests.conftest_bdd.x_assert_quality_decreased__mutmut_8: no tests
+    tests.conftest_bdd.x_assert_quality_increased__mutmut_1: no tests
+    tests.conftest_bdd.x_assert_quality_increased__mutmut_2: no tests
+    tests.conftest_bdd.x_assert_quality_increased__mutmut_3: no tests
+    tests.conftest_bdd.x_assert_quality_increased__mutmut_4: no tests
+    tests.conftest_bdd.x_assert_quality_increased__mutmut_5: no tests
+    tests.conftest_bdd.x_assert_quality_increased__mutmut_6: no tests
+    tests.conftest_bdd.x_assert_quality_increased__mutmut_7: no tests
+    tests.conftest_bdd.x_assert_quality_increased__mutmut_8: no tests
+    tests.conftest_bdd.x_example_manual_bdd_test__mutmut_1: no tests
+    tests.conftest_bdd.x_example_manual_bdd_test__mutmut_2: no tests
+    tests.conftest_bdd.x_example_manual_bdd_test__mutmut_3: no tests
+    tests.conftest_bdd.x_example_manual_bdd_test__mutmut_4: no tests
+    tests.conftest_bdd.x_example_manual_bdd_test__mutmut_5: no tests
+    tests.conftest_bdd.x_example_manual_bdd_test__mutmut_6: no tests
+    tests.conftest_bdd.x_example_manual_bdd_test__mutmut_7: no tests
+    tests.conftest_bdd.x_example_manual_bdd_test__mutmut_8: no tests
+    tests.conftest_bdd.x_example_manual_bdd_test__mutmut_9: no tests
+    tests.conftest_bdd.x_example_manual_bdd_test__mutmut_10: no tests
+    tests.conftest_bdd.x_example_manual_bdd_test__mutmut_11: no tests
+    tests.conftest_bdd.x_example_manual_bdd_test__mutmut_12: no tests
+    tests.conftest_bdd.x_example_manual_bdd_test__mutmut_13: no tests
+    tests.conftest_bdd.x_example_manual_bdd_test__mutmut_14: no tests
+    tests.conftest_bdd.x_example_manual_bdd_test__mutmut_15: no tests
+    tests.conftest_bdd.x_example_manual_bdd_test__mutmut_16: no tests
+    tests.conftest_bdd.x_example_manual_bdd_test__mutmut_17: no tests
+    tests.conftest_bdd.x_example_manual_bdd_test__mutmut_18: no tests
+    tests.conftest_bdd.x_example_manual_bdd_test__mutmut_19: no tests
+    tests.conftest_bdd.x_example_manual_bdd_test__mutmut_20: no tests
+    tests.conftest_bdd.x_example_manual_bdd_test__mutmut_21: no tests
+    tests.conftest_bdd.x_example_manual_bdd_test__mutmut_22: no tests
+    tests.conftest_bdd.x_example_manual_bdd_test__mutmut_23: no tests
+    tests.conftest_bdd.x_example_manual_bdd_test__mutmut_24: no tests
+    tests.conftest_bdd.x_example_manual_bdd_test__mutmut_25: no tests
+    tests.conftest_bdd.x_example_manual_bdd_test__mutmut_26: no tests
+    tests.conftest_bdd.x_example_manual_bdd_test__mutmut_27: no tests
+    tests.conftest_bdd.x_example_manual_bdd_test__mutmut_28: no tests
+    tests.conftest_bdd.x_example_manual_bdd_test__mutmut_29: no tests
+    tests.conftest_bdd.x_example_manual_bdd_test__mutmut_30: no tests
+    tests.conftest_bdd.x_example_manual_bdd_test__mutmut_31: no tests
+    tests.conftest_bdd.x_example_manual_bdd_test__mutmut_32: no tests
+    tests.conftest_bdd.x_example_manual_bdd_test__mutmut_33: no tests
+    tests.conftest_bdd.x_example_manual_bdd_test__mutmut_34: no tests
+    tests.conftest_bdd.x_example_manual_bdd_test__mutmut_35: no tests
+    tests.conftest_bdd.x_example_manual_bdd_test__mutmut_36: no tests
+    tests.conftest_bdd.x_example_manual_bdd_test__mutmut_37: no tests
+    tests.conftest_bdd.x_example_manual_bdd_test__mutmut_38: no tests
+    tests.conftest_bdd.x_example_manual_bdd_test__mutmut_39: no tests
+    tests.conftest_bdd.x_example_manual_bdd_test__mutmut_40: no tests
+    tests.conftest_bdd.x_example_manual_bdd_test__mutmut_41: no tests
+    tests.conftest_bdd.x_example_manual_bdd_test__mutmut_42: no tests
+    tests.conftest_bdd.x_example_manual_bdd_test__mutmut_43: no tests
+    tests.conftest_bdd.x_example_manual_bdd_test__mutmut_44: no tests
+    tests.conftest_bdd.x_example_manual_bdd_test__mutmut_45: no tests
+    tests.conftest_bdd.x_example_manual_bdd_test__mutmut_46: no tests
+    tests.conftest_bdd.x_example_manual_bdd_test__mutmut_47: no tests
+    tests.conftest_bdd.x_example_manual_bdd_test__mutmut_48: no tests
+    tests.conftest_bdd.x_example_manual_bdd_test__mutmut_49: no tests
+    tests.conftest_bdd.x_example_manual_bdd_test__mutmut_50: no tests
+    tests.conftest_bdd.x_example_manual_bdd_test__mutmut_51: no tests
+    tests.conftest_bdd.x_example_manual_bdd_test__mutmut_52: no tests
+    tests.conftest_bdd.x_example_manual_bdd_test__mutmut_53: no tests
