@@ -314,12 +314,12 @@ def main():
     analysis = generate_mutation_analysis()
     
     # Save JSON report
-    json_path = Path("/Users/fernandoibraim/Desktop/trabalho-final-testes/python/stryker-report.json")
+    json_path = Path("/Users/fernandoibraim/Desktop/trabalho-final-testes/python/cosmic-ray-report.json")
     save_report_json(analysis, json_path)
     
     # Generate and save text report
     text_report = format_report_text(analysis)
-    text_path = Path("/Users/fernandoibraim/Desktop/trabalho-final-testes/python/STRYKER_RESULTS.md")
+    text_path = Path("/Users/fernandoibraim/Desktop/trabalho-final-testes/python/COSMIC_RAY_RESULTS.md")
     with open(text_path, 'w') as f:
         f.write(text_report)
     print(f"✅ Text report saved: {text_path}")
