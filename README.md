@@ -17,7 +17,7 @@ O projeto inclui:
 - Refatoração seguindo Clean Code e padrões de projeto  
 - Geração de cenários BDD  
 - Análise dos prompts utilizados  
-- **Implementação de JaCoCo para análise de cobertura de testes**
+- **Implementação de Pytest para análise de cobertura de testes**
 - Demonstração do processo no vídeo final
 
 ---
@@ -127,11 +127,18 @@ A aplicação do **Prompt 3 (BDD)** gerou **47 cenários Gherkin em português**
 
 ## 6. Análise de Cobertura de Testes
 
-### JaCoco
+### Pytest
 
-A implementação de **JaCoCo** (via `coverage.py` + `pytest-cov`) fornece análise profissional de cobertura de código com relatórios em múltiplos formatos.
+A implementação de **Pytest** (via `coverage.py` + `pytest-cov`) fornece análise profissional de cobertura de código com relatórios em múltiplos formatos.
 
-#### 📊 Resultados JaCoCo
+```bash
+pytest --cov=. --cov-report=html    
+```
+
+```bash
+open coverage_html_report/index.html
+```
+#### 📊 Resultados Pytest
 
 | Métrica | Resultado | Status |
 |---------|-----------|--------|
@@ -146,9 +153,9 @@ A implementação de **JaCoCo** (via `coverage.py` + `pytest-cov`) fornece anál
 - **`coverage.json`** - Dados estruturados para CI/CD
 - **`coverage.xml`** - Compatível com SonarQube, Jenkins, GitLab
 - **`.coveragerc`** - Configuração de cobertura
-- **`run_jacoco.sh`** - Script para executar análise
-- **`JACOCO_COVERAGE_REPORT.md`** - Documentação completa de cobertura (700+ linhas)
-- **`JACOCO_README.md`** - Guia rápido de JaCoCo
+- **`run_Pytest.sh`** - Script para executar análise
+- **`PYTEST_COVERAGE_REPORT.md`** - Documentação completa de cobertura (700+ linhas)
+- **`PYTEST_README.md`** - Guia rápido de JaCoCo
 
 ---
 
@@ -163,82 +170,5 @@ A implementação de **JaCoCo** (via `coverage.py` + `pytest-cov`) fornece anál
 3. **Calcula Kill Rate**: Mede quantos mutantes foram "mortos" (detectados pelos testes)
 4. **Gera relatórios**: Identifica testes fracos
 
-
-#### 📊 Resultados Cosmic-ray
-
-| Métrica | Resultado | Status |
-|---------|-----------|--------|
-| **Total de Mutantes** | 250 | - |
-| **Mortos (Detectados)** | 223 (89.2%) | ✅ Excelente |
-| **Sobreviventes** | 20 (8.0%) | ✅ Aceitável |
-| **Timeout** | 3 (1.2%) | ℹ️ Normal |
-| **Pulados** | 4 (1.6%) | ℹ️ Não aplicáveis |
-| **🎯 KILL RATE** | **89%** | **🏆 Grade A** |
-
-#### 📊 Análise por Função
-
-| Função | Coverage | Kill Rate | Qualidade |
-|--------|----------|-----------|-----------|
-| Item.__init__() | 100% | 93.3% | ✅ Excelente |
-| apply_quality_change() | 100% | 88.0% | ✅ Excelente |
-| update_quality() | 98% | 93.3% | ✅ Excelente |
-| NormalUpdater.execute() | 100% | 85.7% | ✅ Excelente |
-| AgedBrieUpdater.execute() | 100% | 89.3% | ✅ Excelente |
-| SulfurasUpdater.execute() | 100% | 90.0% | ✅ Excelente |
-| ConjuredUpdater.execute() | 100% | 84.0% | ✅ Excelente |
-
-#### 📈 Interpretação dos Resultados
-
-```
-KILLED (Morto) 🟢:
-  └─ Teste FALHOU quando mutante foi aplicado
-  └─ Conclusão: Teste é FORTE e detecta mudanças ✅
-
-SURVIVED (Sobreviveu) 🔴:
-  └─ Teste PASSOU mesmo com mutante
-  └─ Conclusão: Teste é FRACO (não valida o bastante) ⚠️
-  └─ Frequência: 8% (Aceitável para código de produção)
-
-TIMEOUT 🟡:
-  └─ Mutante causou loop infinito
-  └─ Frequência: 1% (Normal)
-```
-
-#### 📁 Arquivos Gerados
-
-- **`COSMIC_RAY_GUIDE.md`** - Guia completo de mutation testing (explicações e melhores práticas)
-- **`COSMIC_RAY_REPORT.md`** - Análise detalhada com exemplos de código
-- **`COSMIC_RAY_RESULTS.md`** - Resultados estruturados do relatório
-- **`cosmic_ray-report.json`** - Dados em formato JSON para CI/CD
-- **`generate_cosmic_ray_report.py`** - Script gerador de relatórios
-- **`run_cosmic_ray.sh`** - Script automatizado para executar análise
-- **`.cosmic-ray.toml`** - Configuração do cosmic-ray (Cosmic Ray para Python)
-
-#### 🚀 Como Executar
-
-```bash
-cd python
-
-# Opção 1: Script automatizado
-./run_cosmic_ray.sh
-
-# Opção 2: Comando direto
-python3 generate_cosmic_ray_report.py
-
-# Verificar resultados
-cat COSMIC_RAY_RESULTS.md        # Resumo dos resultados
-cat cosmic-ray-report.json       # Dados estruturados
-```
-
-#### 🎯 Métricas Combinadas (JaCoCo + Cosmic Ray)
-
-```
-CODE COVERAGE (JaCoCo):      97% 🌟
-MUTATION KILL RATE (Cosmic Ray): 89% 🌟
-─────────────────────────────────
-CONFIANÇA TOTAL:             93% 🏆
-
-Conclusão: CÓDIGO PRONTO PARA PRODUÇÃO ✅
-```
 
 ---
